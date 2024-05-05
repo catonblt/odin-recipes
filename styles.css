@@ -30,8 +30,8 @@ li {
 }  
 
 img {
-    border: solid 40px blue;
-    border-color: rgb(235, 143, 7);
+    border: double 40px blue;
+    border-color: rgb(235, 143, 7) blue green red;
     border-radius: 20px;
     opacity: 0.9;
 }
